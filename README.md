@@ -1,5 +1,7 @@
 # Amzon-Stock-Anlysis-Dashboard
 An interactive and dynamic data analysis project designed to track, clean, and visualize Amazon's historical stock performance metrics from 2012 to 2025 using Advanced Excel.
+<img width="1205" height="773" alt="WhatsApp Image 2026-07-06 at 5 11 08 PM" src="https://github.com/user-attachments/assets/ad1b68f8-b890-4475-8b38-58c5ee9a471d" />
+
 
 ### 🎯 Project Objective
 
